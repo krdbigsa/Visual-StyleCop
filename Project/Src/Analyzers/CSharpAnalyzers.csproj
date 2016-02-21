@@ -11,7 +11,7 @@
     <RootNamespace>StyleCop.CSharp</RootNamespace>
     <AssemblyName>StyleCop.CSharp.Rules</AssemblyName>
     <OldToolsVersion>3.5</OldToolsVersion>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\StyleCop.snk</AssemblyOriginatorKeyFile>
     <DelaySign>$(SADelaySign)</DelaySign>
